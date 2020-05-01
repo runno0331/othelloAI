@@ -1,0 +1,3 @@
+/home/denjo/Documents/reversi_sample_cpp-master/build/CMakeFiles/rebuild_cache.dir
+/home/denjo/Documents/reversi_sample_cpp-master/build/CMakeFiles/reversi.dir
+/home/denjo/Documents/reversi_sample_cpp-master/build/CMakeFiles/edit_cache.dir

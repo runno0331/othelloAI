@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -Wall -Wextra -pedantic -Wconversion -Wcast-qual  -rdynamic CMakeFiles/reversi.dir/main.cpp.o CMakeFiles/reversi.dir/board.cpp.o CMakeFiles/reversi.dir/player/human_player.cpp.o CMakeFiles/reversi.dir/player/sample_computer_player.cpp.o CMakeFiles/reversi.dir/option_parser.cpp.o  -o reversi 
